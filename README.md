@@ -65,3 +65,9 @@ Launch the interactive dashboard:
 ```Bash
 streamlit run 4_app.py
 ```
+
+## Live Demo
+[Launch the Streamlit App](https://sadkain.streamlit.app)
+
+## License
+This project is licensed under the [MIT License](LICENSE).
